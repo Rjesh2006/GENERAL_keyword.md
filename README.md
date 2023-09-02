@@ -6,10 +6,4 @@
 .- **CISC** = this a somyhing
 
   
-<marquee
-  direction="down"
-  width="250"
-  height="200"
-  behavior="alternate"
-  style="border:solid">
-  <marquee behavior="alternate">  THESE ARE THE KEYWORDS 👇 BELOW :-</marquee></marquee>
+<marquee> THESE ARE THE KEYWORDS 👇 BELOW :-</marquee>
