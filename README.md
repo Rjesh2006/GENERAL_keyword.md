@@ -7,3 +7,6 @@
 
   
 <marquee> THESE ARE THE KEYWORDS 👇 BELOW :-</marquee>
+
+
+<marquee direction="up">This text will scroll from bottom to top</marquee>
