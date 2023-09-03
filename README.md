@@ -84,10 +84,16 @@ Through kernel programming we can access or control the basic subsystems of kern
 
 
 
-13.**
+13.**DNS**
+Domain Name System (DNS) is a hostname for IP address translation service
 
 
 
+14.**IP ADDRESS**
+a unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.
+  - Types of ip address:-
+    
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/06f80528-d423-4f3e-94fc-866e117d97ce)
 
 
 
