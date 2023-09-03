@@ -21,7 +21,7 @@ User space usually refers to the various programs and libraries that the operati
    An operating system (OS) is the program that, after being initially loaded into the computer by a boot program, manages all of the other application programs in a computer.
   
   - ***types of o.s:-***
-  - 
+   
   - ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/972d8ad9-b673-41d9-a771-dcb09b7b9141)
 
 
@@ -55,7 +55,8 @@ RISC-V (“risk-five”) is an instruction set architecture (ISA) rooted in redu
 An Instruction Set Architecture (ISA) is part of the abstract model of a computer that defines how the CPU is controlled by the software
 
 
-10. **TYPES  OF SOURCE**
+10.**TYPES  OF SOURCE**
+ 
    **Closed source**
 Closed source software refers to the computer software which source code is closes means public is not given access to the source code.
  
