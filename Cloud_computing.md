@@ -72,7 +72,8 @@ An acronym standing for Infrastructure as a Service, it consists of a virtual en
 The catchall term describing all IT resources, both virtual and hardware that support a given IT environment.
 
 
-#Iternal_Cloud:-#
+# Iternal_Cloud:- #
+
 **A private cloud service created or offered by an internal IT department, strictly for in-house use.** 
 
 
