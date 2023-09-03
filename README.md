@@ -255,8 +255,19 @@ Object-Oriented Programming is a methodology or paradigm to design a program usi
 
 
 38.**Ubuntu directories**
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/42c6a9d0-8d08-415e-9070-7b35c23735b4)
 
 
+
+39.**SSL (Certificate)**
+An SSL certificate is a digital certificate that authenticates a website's identity and enables an encrypted connection. SSL stands for Secure Sockets Layer
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/b9c51274-ca97-4e0f-9460-5da842628d29)
+
+
+
+40.**Blockchain**
+Blockchain is a type of shared database that differs from a typical database in the way it stores information; blockchains store data in blocks linked together via cryptography
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/8a96b725-2ed1-49fe-9d80-9631d7a4461a)
 
 
 
