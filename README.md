@@ -165,9 +165,46 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 The TCP/IP model refers to the Transmission Control Protocol/Internet Protocol Model. 
 
 - *the difference between OSI model and tcpi model:-*
-- ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/a911424f-c454-482f-ab3a-1168d006a371)
+ ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/a911424f-c454-482f-ab3a-1168d006a371)
 
 
+
+23.**TLS Tunnel**
+The Transport Layer Security (TLS) tunnel encrypts all data sent over the TCP connection.
+
+
+
+24.**Accelators**
+Hardware accelerators improve the execution of a specific algorithm by allowing greater concurrency
+
+
+
+25.**Cryptography**
+Cryptography is the process of hiding or coding information so that only the person a message was intended for can read it. 
+
+
+
+26.**Von-nevwmom**
+John von Neumann is perhaps best known known for his work in the early development of computers: As director of the Electronic Computer Project at Princeton's Institute for Advanced Study (1945-1955)
+
+
+
+27.**Firmware**
+Firmware is a form of microcode or program embedded into hardware devices to help them operate effectively.
+
+
+
+28.**HTTP'S**
+HTTPS, meaning Hypertext Transfer Protocol Secure, is the primary way to securely send data from a web browser to a website. 
+
+
+
+29.**SSH**
+SSH or Secure Shell is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, 
+
+
+
+30.**Linux cmd**
 
 
 
