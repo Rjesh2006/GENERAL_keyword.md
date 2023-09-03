@@ -112,10 +112,14 @@ a form of cloud services in which the user rents a physical machine from a provi
 A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs)
 
   - types of hypervisor:-
-  - type 1: Type 1 hypervisor, is virtualization software that has been installed directly onto the computing hardware. This type of hypervisor controls not only the hardware, but one or more guest operating systems (OSes).
+  - type 1:
+  
+  -   Type 1 hypervisor, is virtualization software that has been installed directly onto the computing hardware. This type of hypervisor controls not only the hardware, but one or more guest operating systems (OSes).
 
    
-  - type2:A type 2 hypervisor is hosted, running as software on the O/S, which in turn runs on the physical hardware. This form of hypervisor is typically used to run multiple operating systems on one personal computer,
+  - type2:
+    
+  - A type 2 hypervisor is hosted, running as software on the O/S, which in turn runs on the physical hardware. This form of hypervisor is typically used to run multiple operating systems on one personal computer,
 - ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/b7e0b1a7-43bb-4732-bddd-cced26dc696d)
 
     
