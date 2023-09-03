@@ -116,9 +116,22 @@ A hypervisor, also known as a virtual machine monitor or VMM, is software that c
 
    
   - type2:A type 2 hypervisor is hosted, running as software on the O/S, which in turn runs on the physical hardware. This form of hypervisor is typically used to run multiple operating systems on one personal computer,
+- ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/b7e0b1a7-43bb-4732-bddd-cced26dc696d)
 
     
   
+18.**FPGA**
+Field Programmable Gate Arrays (FPGAs) are integrated circuits often sold off-the-shelf.
+
+
+
+19.**Socket**
+
+The word “Socket” is the combination of port and IP address. The word “Port” is the number used by particular software.
+
+
+
+20.**OSI**
 
 
 
