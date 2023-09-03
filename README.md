@@ -2,7 +2,7 @@
  i have written here some technical 
  keywords that's help you to 
  catch thinks easily.....
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" height=250 width=350="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
                    
  # These are some Keywords 🗝️ :-- # 
@@ -125,7 +125,7 @@ A hypervisor, also known as a virtual machine monitor or VMM, is software that c
     
   
 18.**FPGA**
-Field Programmable Gate Arrays (FPGAs) are integrated circuits often sold off-the-shelf.
+Field Programmable Gate Arrays (FPGAs) 
 
 
 
@@ -136,6 +136,33 @@ The word “Socket” is the combination of port and IP address. The word “Por
 
 
 20.**OSI**
+
+The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system.
+
+
+
+21.**SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION]**
+
+
+~layer7-application/protocol
+~layer6-presentation
+~layer5-cryptography
+~layer4-port number[16 bits]
+~layer3-IP ADDRESS[32 bits]
+~layer2-hardware address-NIC,MAC
+~layer1-digital(1 and 0)
+
+
+
+22.**tcpi model**
+The TCP/IP model refers to the Transmission Control Protocol/Internet Protocol Model. 
+
+- *the difference between OSI model and tcpi model:-*
+- ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/a911424f-c454-482f-ab3a-1168d006a371)
+
+
+
+
 
 
 
