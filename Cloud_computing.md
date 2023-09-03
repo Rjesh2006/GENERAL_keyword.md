@@ -78,7 +78,7 @@ The catchall term describing all IT resources, both virtual and hardware that su
 
 # Internal_Cloud :- #
 
-**A private cloud service created or offered by an internal IT department, strictly for in-house use :** 
+**A private cloud service created or offered by an internal IT department, strictly for in-house use : 👇** 
 
 1.**Load balancing**
 
