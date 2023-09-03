@@ -72,9 +72,68 @@ An acronym standing for Infrastructure as a Service, it consists of a virtual en
 The catchall term describing all IT resources, both virtual and hardware that support a given IT environment.
 
 
-# Iternal_Cloud:- #
+# Internal_Cloud: #
 
 **A private cloud service created or offered by an internal IT department, strictly for in-house use.** 
 
+1.**Load balancing**
+
+The distribution of workloads over a series of resources, for instance, servers, to assure that no single server suffers a point of failure.
 
 
+2.**Middleware**
+
+Software that serves as a bridge between applications and components.
+On-Premise
+Refers to either infrastructure or software technology that runs on the premises belonging to the user of that technology. 
+
+
+3.**PaaS**
+
+An acronym standing for Platform as a Service, this is a product where the cloud services provider offers users the necessary software and hardware for the creation, deployment, and management of applications, all via the Internet.
+
+
+4.**Pay-As-You-Go**
+
+A means of purchasing cloud services (hardware and software) from a provider that requires no money down; instead, it’s a based on consumption, or via subscription.
+
+
+5.**Personal Cloud**
+
+This is a classic case of rebranding. In terms of the cloud, “personal cloud” is another way to describe network-attached storage (NAS) devices. A NAS is a computer connected to a network for the purposes of dedicated data storage. “Personal cloud” is a prime example of “cloud washing,” which in turn is defined as the act of rebranding old tech into something related to the cloud.
+
+6.**Private Cloud**
+This is a cloud infrastructure system that is used by multiple users within one single entity (business, organization, etc.) It can be operated by the home organization, a third party, or some combination of the two, and be located either on-premises or off-site.
+
+
+7.**Public Cloud**
+This is a cloud infrastructure system that is hosted by a cloud services provider and can be accessed by anyone with an Internet connection.  Amazon’s EC2 or IBM’s Blue Cloud are good examples, as is Google Drive.
+
+
+8.**Service Level Agreement (SLA)**
+
+This is the agreement between a Cloud Service Provider (CSP) and a customer, outlining contractual terms such as availability, level of service, and performance.
+
+
+9.**SaaS**
+
+An acronym standing for Software as a Service, this represented software applications hosted by a vendor and sold as subscription licenses to users. Salesforce, Adobe’s Creative Cloud, and Microsoft’s Office 365 are some of the most well-known examples of a SaaS.
+
+
+10.**Software Stack**
+
+This is a group of applications that work together, in tandem, so to achieve a typical result. The components work in a specific order within this framework.
+
+
+11.**User Interface**
+
+This is how a user and computer system interact.
+
+
+12.**Virtual Machine**
+A VM is a software that emulates a computer, used for running an operating system or applications.
+
+
+13.**Virtual Desktop Infrastructure**
+
+This is virtualization technology that hosts a desktop operating system on a virtual machine. It’s also called server-based computing.
