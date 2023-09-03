@@ -3,7 +3,7 @@
 
 
 # Cloud_Coumputing # 
-                           ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/71808d44-71c6-4bcb-be9e-1d4f9e3c75c0)
+                              ![image] (https://github.com/Rjesh2006/Rjesh2006/assets/143868643/71808d44-71c6-4bcb-be9e-1d4f9e3c75c0)
 
 
 
