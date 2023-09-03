@@ -144,23 +144,24 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 21.**SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION]**
 
 
-layer7-application/protocol
+- layer7-application/protocol
 
-layer6-presentation
+- layer6-presentation
 
-layer5-cryptography
+- layer5-cryptography
 
-layer4-port number[16 bits]
+- layer4-port number[16 bits]
 
-layer3-IP ADDRESS[32 bits]
+- layer3-IP ADDRESS[32 bits]
 
-layer2-hardware address-NIC,MAC
+- layer2-hardware address-NIC,MAC
 
-layer1-digital(1 and 0)
+- layer1-digital(1 and 0)
 
 
 
-22.**tcpi model**
+22.**Tcpi model**
+
 The TCP/IP model refers to the Transmission Control Protocol/Internet Protocol Model. 
 
 - *the difference between OSI model and tcpi model:-*
