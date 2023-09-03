@@ -7,6 +7,7 @@
                    
  # These are some Keywords 🗝️ :-- # 
  1.**Computation**
+ 
  the use of computers, especially as a   subject of research or study.
  Origin
 
@@ -64,6 +65,8 @@ Closed source software refers to the computer software which source code is clos
 Nearly all open source software is free software, but there are exceptions.
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/c0474abb-170e-42d5-9fce-4646dd8d70e0)
+
+
 
 11.**Enegy efficiency**
 *The term efficiency can be defined as the ability to achieve an end goal with little to no waste, effort, or energy*
