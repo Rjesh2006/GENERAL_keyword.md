@@ -11,23 +11,22 @@ Often shortened to API, the application programming interface is a tool that let
 
 2.***AWS***
 
-![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/bc9e988c-bca5-41ae-a096-4b1200d60b12)
 
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/bc9e988c-bca5-41ae-a096-4b1200d60b12)
 
 Short for Amazon Web Services, AWS is Amazon.com’s cloud computing platform, offering over three dozen cloud services to consumers. AWS is the Internet’s most-used cloud service provider.
 
 3.***Azure***
 
+
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/e247d285-f0f7-4894-b2d9-96e5e9904db7)
-
-
 
 This is Microsoft’s cloud computing platform, a competitor of AWS. It provides IaaS and PaaS services.
 
 4.***BaaS***
 
-![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/c33b700d-fb97-41ad-81b2-e53ab5851972)
 
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/c33b700d-fb97-41ad-81b2-e53ab5851972)
 
 This acronym stands for Backend-as-a-Service, and it provides tools and services to the developers of mobile and web apps to create their cloud backend for said apps. The mobile variety is usually designated as mBaaS.
 
