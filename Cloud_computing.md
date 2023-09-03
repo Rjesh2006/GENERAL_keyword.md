@@ -1,7 +1,8 @@
 # Cloud_Coumputing #
 
 
-**Here Are the Important Cloud Computing Terms👇**
+**Here Are the Important Cloud Computing Terms :- 👇**
+
 
 1.***Application Programming Interface :-***
 
