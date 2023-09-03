@@ -1,5 +1,6 @@
 # Cloud_Coumputing #
 
+
 **Here Are the Important Cloud Computing Terms👇**
 
 1.***Application Programming Interface :-***
@@ -72,6 +73,7 @@ An acronym standing for Infrastructure as a Service, it consists of a virtual en
 The catchall term describing all IT resources, both virtual and hardware that support a given IT environment.
 
 
+
 # Internal_Cloud :- #
 
 **A private cloud service created or offered by an internal IT department, strictly for in-house use :** 
@@ -139,5 +141,5 @@ A VM is a software that emulates a computer, used for running an operating syste
 
 13.**Virtual Desktop Infrastructure**
 
-- This is virtualization technology that hosts a desktop operating system on a virtual machine. It’s also called server-based computing. -
+This is virtualization technologythat hosts a desktop operating system on a virtual machine. It’s also called server-based computing. 
 
