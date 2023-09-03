@@ -156,6 +156,9 @@ This is how a user and computer system interact.
 
 12.**Virtual Machine**
 
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/9c00de3c-9329-44c5-9089-a52fb0e85837)
+
 A VM is a software that emulates a computer, used for running an operating system or applications.
 
 
