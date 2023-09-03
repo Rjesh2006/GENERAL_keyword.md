@@ -22,7 +22,7 @@ User space usually refers to the various programs and libraries that the operati
   
   - ***types of o.s:-***
    
-  - ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/972d8ad9-b673-41d9-a771-dcb09b7b9141)
+   ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/972d8ad9-b673-41d9-a771-dcb09b7b9141)
 
 
 
