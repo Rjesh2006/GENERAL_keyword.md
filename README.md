@@ -2,8 +2,8 @@
  i have written here some technical 
  keywords that's help you to 
  catch thinks easily.....
-<img alt="Coder GIF" height=250 width=350="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
+ 
+
                    
  # These are some Keywords 🗝️ :-- # 
  1.**Computation :**
@@ -86,8 +86,7 @@ Through kernel programming we can access or control the basic subsystems of kern
 13.**DNS :**
 Domain Name System (DNS) is a hostname for IP address translation service
 
-<img alt="Coder GIF" height=250 width=350 src="https://www.google.com/search?client=ms-android-xiaomi-rev1&sca_esv=562332091&sxsrf=AB5stBid4WsuL0CVsGtJx3Xzrf93XyanGw:1693742644139&q=how+ip+address+work+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjy-pOFs46BAxVYXmwGHY2UDYUQ0pQJegQIEhAB&biw=393&bih=764&dpr=2.75#imgrc=apv6ORYeqcEufM/>
-<br>
+
 
 14.**IP ADDRESS :**
 a unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.
