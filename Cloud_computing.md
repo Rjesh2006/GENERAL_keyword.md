@@ -139,4 +139,5 @@ A VM is a software that emulates a computer, used for running an operating syste
 
 13.**Virtual Desktop Infrastructure**
 
-This is virtualization technology that hosts a desktop operating system on a virtual machine. It’s also called server-based computing.
+-This is virtualization technology that hosts a desktop operating system on a virtual machine. It’s also called server-based computing.-
+
