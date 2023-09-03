@@ -3,7 +3,7 @@
  keywords that's help you to 
  cathch thinks easily.....**
 
- # These are some keywords 🗝️ #
+ # These are some ...  #
  
  ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7788801b-964e-4094-ac38-9c93a33350dc)
 
