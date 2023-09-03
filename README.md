@@ -187,6 +187,8 @@ Cryptography is the process of hiding or coding information so that only the per
 26.**Von-nevwmom**
 John von Neumann is perhaps best known known for his work in the early development of computers: As director of the Electronic Computer Project at Princeton's Institute for Advanced Study (1945-1955)
 
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/5904ee99-b317-4f5f-b5be-d9c9aed6459a)
+
 
 
 27.**Firmware**
