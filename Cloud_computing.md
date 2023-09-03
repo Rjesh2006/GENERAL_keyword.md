@@ -18,7 +18,8 @@ Short for Amazon Web Services, AWS is Amazon.com’s cloud computing platform, o
 
 3.***Azure***
 
-![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/0cb61075-22ae-41fc-85ad-4bb69aac0b99)
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/e247d285-f0f7-4894-b2d9-96e5e9904db7)
+
 
 
 This is Microsoft’s cloud computing platform, a competitor of AWS. It provides IaaS and PaaS services.
