@@ -205,6 +205,60 @@ SSH or Secure Shell is a network communication protocol that enables two compute
 
 
 30.**Linux cmd**
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7bfb87df-5134-41c2-a6a1-d110fca86976)
+
+
+
+31.**NAT**
+NAT stands for network address translation. It's a way to map multiple private addresses inside a local network to a public IP address before transferring the information onto the internet.
+
+
+
+32.**Switch**
+connects devices in a network to each other, enabling them to talk by exchanging data packets.
+
+
+
+33.**Router**
+router is a device that connects two or more packet-switched networks or subnetworks.
+
+
+
+34.**Server**
+server is a computer program or device that provides a service to another computer program and its user, also known as the client. 
+
+
+
+35.**Round Robin**
+each member of the body is given an opportunity to speak once before anyone may speak a second time, commonly by calling on the members around the table in turn
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/1625106a-83af-4ade-b20c-d4ce813573f8)
+
+
+
+36.**data structure algorithm ( DSA)**
+A data structure is a method of organizing data in a virtual system. Think of sequences of numbers, or tables of data: these are both well-defined data structures.
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/c7d16eca-8b1a-4bb9-a9e1-85a698c448ad)
+
+
+37.**object oriented programming(OOPS)**
+OOPs (Object-Oriented Programming System)
+
+Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts: Object. Class.
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/a17bf760-37b9-4b35-96e5-edf2a109214c)
+
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/59ec86be-2b0e-4b8b-b516-40bb4510697c)
+
+
+
+
+38.**
+
+
+
+
 
 
 
