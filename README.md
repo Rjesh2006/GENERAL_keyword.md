@@ -103,7 +103,22 @@ A port number is a way to identify a specific process to which an internet or ot
  - **types of port number**:-
  - ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/14460172-73a0-475e-bf0a-f435daa424dd)
 
+16.**Bare metal**
+a form of cloud services in which the user rents a physical machine from a provider that is not shared with any other tenants.
 
+
+
+17.**Hypeevisor**
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs)
+
+  - types of hypervisor:-
+  - type 1: Type 1 hypervisor, is virtualization software that has been installed directly onto the computing hardware. This type of hypervisor controls not only the hardware, but one or more guest operating systems (OSes).
+
+   
+  - type2:A type 2 hypervisor is hosted, running as software on the O/S, which in turn runs on the physical hardware. This form of hypervisor is typically used to run multiple operating systems on one personal computer,
+
+    
+  
 
 
 
