@@ -51,6 +51,9 @@ The delivery of IT services on-demand over shared networked computing resources.
 
 8.***Cloud Provider***
 
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/26352cc6-0fed-4c52-a03c-79ee882630d5)
+
+
 An organization or business that offers access to cloud computing services, generally for a fee. Examples of cloud providers include AWS, Azure, and google cloud etc.
 
 
