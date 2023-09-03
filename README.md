@@ -269,10 +269,44 @@ An SSL certificate is a digital certificate that authenticates a website's ident
 Blockchain is a type of shared database that differs from a typical database in the way it stores information; blockchains store data in blocks linked together via cryptography
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/8a96b725-2ed1-49fe-9d80-9631d7a4461a)
 
+41.**MLM**
+Multilevel marketing (MLM) is a business model that involves unsalaried, hierarchical sales teams selling products directly to consumers in conjunction with recruiting additional company sales representatives.
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/97b35336-f092-4b80-a368-8664ae12f86f)
 
 
 
 
+42.**Satoshi nakamoto**
+Nakamoto created Bitcoin. This fact is based on the famous Bitcoin white paper, “Bitcoin: A Peer-to-Peer Electronic Cash System,” published online in October 2008. Nakamoto was the author of the white paper, laying out the theory and operating structure of the Bitcoin payment system.
+
+
+
+43.**Bitcoin**
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/2d09d521-da98-455b-82f2-a76019fa5904)
+
+
+
+44.**Bitcoin mining ⛏️**
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/ce01b3d8-3216-4600-a15e-97bac8becce0)
+
+
+
+45.**Ethereum**
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/f0ab128e-9a93-44e9-95c9-69857bb1cb21)
+
+
+
+46.**ICO**
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7056cfff-f4e3-4091-8096-f2860aae22d8)
+
+
+
+
+**Update To be Continued...........**
 
 
 
