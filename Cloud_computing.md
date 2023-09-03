@@ -9,3 +9,11 @@
 2.***AWS***
 
 Short for Amazon Web Services, AWS is Amazon.com’s cloud computing platform, offering over three dozen cloud services to consumers. AWS is the Internet’s most-used cloud service provider.
+
+3. ***Azure***
+
+This is Microsoft’s cloud computing platform, a competitor of AWS. It provides IaaS and PaaS services.
+
+4.***BaaS***
+
+This acronym stands for Backend-as-a-Service, and it provides tools and services to the developers of mobile and web apps to create their cloud backend for said apps. The mobile variety is usually designated as mBaaS.
