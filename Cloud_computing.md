@@ -51,7 +51,7 @@ The delivery of IT services on-demand over shared networked computing resources.
 
 8.***Cloud Provider***
 
-An organization or business that offers access to cloud computing services, generally for a fee. Examples of cloud providers include AWS, Azure, and 
+An organization or business that offers access to cloud computing services, generally for a fee. Examples of cloud providers include AWS, Azure, and google cloud etc.
 
 
 9.***Consumption-based***
