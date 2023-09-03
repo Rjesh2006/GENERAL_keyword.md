@@ -136,28 +136,32 @@ This is a cloud infrastructure system that is used by multiple users within one 
 
 This is a cloud infrastructure system that is hosted by a cloud services provider and can be accessed by anyone with an Internet connection.  Amazon’s EC2 or IBM’s Blue Cloud are good examples, as is Google Drive.
 
+8.**Hybrid Cloud**
 
-8.**Service Level Agreement (SLA)**
+Inside Organisation or Anywhere on te internet :: Multi Tenant + Single Tenant
+
+
+9.**Service Level Agreement (SLA)**
 
 This is the agreement between a Cloud Service Provider (CSP) and a customer, outlining contractual terms such as availability, level of service, and performance.
 
 
-9.**SaaS**
+10.**SaaS**
 
 An acronym standing for Software as a Service, this represented software applications hosted by a vendor and sold as subscription licenses to users. Salesforce, Adobe’s Creative Cloud, and Microsoft’s Office 365 are some of the most well-known examples of a SaaS.
 
 
-10.**Software Stack**
+11.**Software Stack**
 
 This is a group of applications that work together, in tandem, so to achieve a typical result. The components work in a specific order within this framework.
 
 
-11.**User Interface**
+12.**User Interface**
 
 This is how a user and computer system interact.
 
 
-12.**Virtual Machine**
+13.**Virtual Machine**
 
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/9c00de3c-9329-44c5-9089-a52fb0e85837)
@@ -165,7 +169,7 @@ This is how a user and computer system interact.
 A VM is a software that emulates a computer, used for running an operating system or applications.
 
 
-13.**Virtual Desktop Infrastructure**
+14.**Virtual Desktop Infrastructure**
 
 This is virtualization technologythat hosts a desktop operating system on a virtual machine. It’s also called server-based computing. 
 
