@@ -42,7 +42,10 @@ A catch-all term for massive amounts of structured and unstructured data that co
 
 Backing up data to a remote, cloud-based server. The data is stored in and accessed from a network of interconnected resources, forming the aforementioned cloud.  
 
-7.***Cloud Computing***
+
+7.***What is cloud computing***
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/58d9af1c-fd94-4d44-a7c5-53ed3d10e326)
+
 
 The delivery of IT services on-demand over shared networked computing resources. The top three cloud offerings are IaaS, PaaS, and SaaS.
 
