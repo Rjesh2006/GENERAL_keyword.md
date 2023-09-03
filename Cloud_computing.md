@@ -1,6 +1,8 @@
 *....Hello  👋 guys i have written 
 here some cloud computing keyword 
 hope thats will helps you to catch thinks easily....*
+<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<br>
 
 
 
