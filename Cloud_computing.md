@@ -97,6 +97,9 @@ The catchall term describing all IT resources, both virtual and hardware that su
 
 1.**Load balancing**
 
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/21fac2b1-ff6b-41e9-9996-2bb1fceda915)
+
 The distribution of workloads over a series of resources, for instance, servers, to assure that no single server suffers a point of failure.
 
 
