@@ -144,11 +144,17 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 
 
 ~layer7-application/protocol
+
 ~layer6-presentation
+
 ~layer5-cryptography
+
 ~layer4-port number[16 bits]
+
 ~layer3-IP ADDRESS[32 bits]
+
 ~layer2-hardware address-NIC,MAC
+
 ~layer1-digital(1 and 0)
 
 
