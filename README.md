@@ -58,10 +58,10 @@ An Instruction Set Architecture (ISA) is part of the abstract model of a compute
 
 10.**TYPES  OF SOURCE**
  
-   -**Closed source**
+   - **Closed source**
 Closed source software refers to the computer software which source code is closes means public is not given access to the source code.
  
-   -**Open source**
+   - **Open source**
 Nearly all open source software is free software, but there are exceptions.
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/c0474abb-170e-42d5-9fce-4646dd8d70e0)
