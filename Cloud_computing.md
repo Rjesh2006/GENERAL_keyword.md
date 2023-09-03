@@ -103,10 +103,12 @@ A means of purchasing cloud services (hardware and software) from a provider tha
 This is a classic case of rebranding. In terms of the cloud, “personal cloud” is another way to describe network-attached storage (NAS) devices. A NAS is a computer connected to a network for the purposes of dedicated data storage. “Personal cloud” is a prime example of “cloud washing,” which in turn is defined as the act of rebranding old tech into something related to the cloud.
 
 6.**Private Cloud**
+
 This is a cloud infrastructure system that is used by multiple users within one single entity (business, organization, etc.) It can be operated by the home organization, a third party, or some combination of the two, and be located either on-premises or off-site.
 
 
 7.**Public Cloud**
+
 This is a cloud infrastructure system that is hosted by a cloud services provider and can be accessed by anyone with an Internet connection.  Amazon’s EC2 or IBM’s Blue Cloud are good examples, as is Google Drive.
 
 
