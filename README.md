@@ -96,7 +96,12 @@ a unique string of characters that identifies each computer using the Internet P
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/06f80528-d423-4f3e-94fc-866e117d97ce)
 
 
+15.**Port no.**
 
+A port number is a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a serve
+
+ - **types of port number**:-
+ - ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/14460172-73a0-475e-bf0a-f435daa424dd)
 
 
 
