@@ -86,7 +86,7 @@ Through kernel programming we can access or control the basic subsystems of kern
 13.**DNS :**
 Domain Name System (DNS) is a hostname for IP address translation service
 
-<img alt="Coder GIF" height=250 width=350 src=<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" height=250 width=350 src=<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
 <br>
 
 14.**IP ADDRESS :**
