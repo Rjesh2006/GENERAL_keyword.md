@@ -403,7 +403,8 @@ Clusters are typically defined as collections or groups of items with similar or
    - DECENTRALIZED COMPUTING
      
    an architectural style in which there is no central point of authority to control access to data or logic that resides within a network
-  ![Uploading image.png…]()
+  ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/4f1bb91a-b499-480c-b330-82064d8a2235)
+
  
 
      
