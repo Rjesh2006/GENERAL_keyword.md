@@ -405,7 +405,13 @@ Clusters are typically defined as collections or groups of items with similar or
    an architectural style in which there is no central point of authority to control access to data or logic that resides within a network
   ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/4f1bb91a-b499-480c-b330-82064d8a2235)
 
- 
+  * Centralised Vs Decentralised*
+
+    
+   - Centralized networks are owned and operated by a single entity, while decentralized networks are spread out and owned by multiple entities.
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/ed2e49c3-7ec8-4633-abe4-a799c40fa2df)
+
+    
 
      
 
