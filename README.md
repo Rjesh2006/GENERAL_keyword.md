@@ -307,12 +307,39 @@ Nakamoto created Bitcoin. This fact is based on the famous Bitcoin white paper, 
 server is a computer program or device that provides a service to another computer program and its user, also known as the client. 
 
    *types of server*
-    - **Apache **
+    ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/81091a9e-a370-47e7-b79b-6b4bf984c1a4)
+
+
+
+   
+48. **Apache **
  As a Web server, Apache is  responsible for accepting directory (HTTP) requests from Internet users and sending them their desired information in the form of files and Web pages.
 
  
-   - **nginx**
+ 
+49. **nginx**
 NGINX is open-source web server software used for reverse proxy, load balancing, and caching. It provides HTTPS server capabilities and is mainly designed for maximum performance and stability. It also functions as a proxy server for email communications protocols, such as IMAP, POP3, and SMTP.
+
+
+
+50.**Caddy server**
+The Caddy web server is an open-source, HTTP/2-enabled web server written in Go: The server is designed to be simple, efficient, and portable.
+
+  - *caddy vs nginx*
+  - Caddy as an HTTPS Reverse Proxy provides better and faster performance compared to Nginx (the speed of responding to requests in Caddy is almost 4 times that of Nginx).
+
+
+
+51.**Container engine**
+Container engines can run multiple, isolated instances, known as containers, on the same operating system kernel. Containers perform virtualization at the operating system level, and provide a controllable.
+
+
+52.**Docker**
+Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. 
+
+
+
+53.** **
 
   
 **Update To be Continued...........**
