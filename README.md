@@ -271,11 +271,6 @@ An SSL certificate is a digital certificate that authenticates a website's ident
 Blockchain is a type of shared database that differs from a typical database in the way it stores information; blockchains store data in blocks linked together via cryptography
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/8a96b725-2ed1-49fe-9d80-9631d7a4461a)
 
-41.**MLM**
-Multilevel marketing (MLM) is a business model that involves unsalaried, hierarchical sales teams selling products directly to consumers in conjunction with recruiting additional company sales representatives.
-
-![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/97b35336-f092-4b80-a368-8664ae12f86f)
-
 
 
 
