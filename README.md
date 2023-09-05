@@ -302,7 +302,19 @@ Nakamoto created Bitcoin. This fact is based on the famous Bitcoin white paper, 
 
 
 
+47.**Server**
 
+server is a computer program or device that provides a service to another computer program and its user, also known as the client. 
+
+   *types of server*
+    - **Apache **
+ As a Web server, Apache is  responsible for accepting directory (HTTP) requests from Internet users and sending them their desired information in the form of files and Web pages.
+
+ 
+   - **nginx**
+NGINX is open-source web server software used for reverse proxy, load balancing, and caching. It provides HTTPS server capabilities and is mainly designed for maximum performance and stability. It also functions as a proxy server for email communications protocols, such as IMAP, POP3, and SMTP.
+
+  
 **Update To be Continued...........**
 
 
