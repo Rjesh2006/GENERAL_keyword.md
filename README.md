@@ -366,6 +366,8 @@ Clusters are typically defined as collections or groups of items with similar or
    - CLIENT COMPUTING
 
      In computing, a client is a piece of computer hardware or software that accesses a service made available by a server as part of the client–server model of computer networks
+     ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/762dd825-10be-4602-9dd5-9e32c314bd05)
+
 
     
    - CLOUD COMPUTING
@@ -374,27 +376,35 @@ Clusters are typically defined as collections or groups of items with similar or
 
     
    - EDGE COMPUTING
+     
      moves computer storage and processing (now often just called “compute”) to the edge of the network. 
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/3c37249c-4402-43f5-8202-90e91f4d958a)
 
 
    - CLUSTER COMPUTING
 
      A computer cluster is a set of computers that work together so that they can be viewed as a single system
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/b6ad9905-45fd-4607-b8d7-ea913922873d)
 
      
    - DISTRIBUTED COMPUTING
 
      the method of making multiple computers work together to solve a common problem. It makes a computer network appear as a powerful single computer that provides large-scale resources to deal with complex challenges.
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/29eb76f8-46bd-426a-a2ac-ca566098b5fc)
 
     
    - CENTRALISED COMPUTING
 
      Centralized computing is computing done at a central location, using terminals that are attached to a central computer. The computer itself may control all the peripherals directly (if they are physically connected to the central computer), or they may be attached via a terminal server.
+    ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/3f4a3739-3dbb-4b74-b540-3c37c5fd7d45)
+ 
 
      
    - DECENTRALIZED COMPUTING
-   - 
-    an architectural style in which there is no central point of authority to control access to data or logic that resides within a network
+     
+   an architectural style in which there is no central point of authority to control access to data or logic that resides within a network
+  ![Uploading image.png…]()
+ 
 
      
 
