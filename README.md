@@ -354,6 +354,55 @@ LXC (LinuX Containers) is a OS-level virtualization technology that allows creat
 On-Premises' (“on-prem” or “on-premise”) means that local software is installed and runs on computers in your company's own IT environment. From your company's offices, you can choose whether to manage and maintain servers, etc
 
 
+
+55.**Cluster**
+
+Clusters are typically defined as collections or groups of items with similar or different characteristics. The group or collection of items constitutes a cluster. 
+
+
+
+56.**Desktop computing**
+
+   - CLIENT COMPUTING
+
+     In computing, a client is a piece of computer hardware or software that accesses a service made available by a server as part of the client–server model of computer networks
+
+    
+   - CLOUD COMPUTING
+
+     One type of cloud service would be streaming platforms for audio or video, where the actual media files are stored remotely. Another would be data storage platforms like Google Drive, Dropbox, OneDrive, or Box
+
+    
+   - EDGE COMPUTING
+     moves computer storage and processing (now often just called “compute”) to the edge of the network. 
+
+
+   - CLUSTER COMPUTING
+
+     A computer cluster is a set of computers that work together so that they can be viewed as a single system
+
+     
+   - DISTRIBUTED COMPUTING
+
+     the method of making multiple computers work together to solve a common problem. It makes a computer network appear as a powerful single computer that provides large-scale resources to deal with complex challenges.
+
+    
+   - CENTRALISED COMPUTING
+
+     Centralized computing is computing done at a central location, using terminals that are attached to a central computer. The computer itself may control all the peripherals directly (if they are physically connected to the central computer), or they may be attached via a terminal server.
+
+     
+   - DECENTRALIZED COMPUTING
+   - 
+    an architectural style in which there is no central point of authority to control access to data or logic that resides within a network
+
+     
+
+
+
+     
+
+
   
 **Update To be Continued...........**
 
