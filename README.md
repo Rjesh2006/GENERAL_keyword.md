@@ -96,14 +96,14 @@ a unique string of characters that identifies each computer using the Internet P
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/06f80528-d423-4f3e-94fc-866e117d97ce)
 
 
-15.**Port no.**
+15.**Port no. :**
 
 A port number is a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a serve
 
  - **types of port number**:-
  - ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/14460172-73a0-475e-bf0a-f435daa424dd)
 
-16.**Bare metal**
+16.**Bare metal :**
 a form of cloud services in which the user rents a physical machine from a provider that is not shared with any other tenants.
 
 
@@ -124,24 +124,24 @@ A hypervisor, also known as a virtual machine monitor or VMM, is software that c
 
     
   
-18.**FPGA**
+18.**FPGA :**
 Field Programmable Gate Arrays (FPGAs) 
 
 
 
-19.**Socket**
+19.**Socket :**
 
 The word “Socket” is the combination of port and IP address. The word “Port” is the number used by particular software.
 
 
 
-20.**OSI**
+20.**OSI :**
 
 The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system.
 
 
 
-21.**SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION]**
+21.**SEVEN LAYER OF OSI[OPEN SYSTEM INTERCONNECTION] :**
 
 
 - layer7-application/protocol
@@ -160,7 +160,7 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 
 
 
-22.**Tcpi model**
+22.**Tcpi model :**
 
 The TCP/IP model refers to the Transmission Control Protocol/Internet Protocol Model. 
 
@@ -169,81 +169,81 @@ The TCP/IP model refers to the Transmission Control Protocol/Internet Protocol M
 
 
 
-23.**TLS Tunnel**
+23.**TLS Tunnel :**
 The Transport Layer Security (TLS) tunnel encrypts all data sent over the TCP connection.
 
 
 
-24.**Accelators**
+24.**Accelators :**
 Hardware accelerators improve the execution of a specific algorithm by allowing greater concurrency
 
 
 
-25.**Cryptography**
+25.**Cryptography :**
 Cryptography is the process of hiding or coding information so that only the person a message was intended for can read it. 
 
 
 
-26.**Von-nevwmom**
+26.**Von-nevwmom :**
 John von Neumann is perhaps best known known for his work in the early development of computers: As director of the Electronic Computer Project at Princeton's Institute for Advanced Study (1945-1955)
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/5904ee99-b317-4f5f-b5be-d9c9aed6459a)
 
 
 
-27.**Firmware**
+27.**Firmware :**
 Firmware is a form of microcode or program embedded into hardware devices to help them operate effectively.
 
 
 
-28.**HTTP'S**
+28.**HTTP'S :**
 HTTPS, meaning Hypertext Transfer Protocol Secure, is the primary way to securely send data from a web browser to a website. 
 
 
 
-29.**SSH**
+29.**SSH :**
 SSH or Secure Shell is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, 
 
 
 
-30.**Linux cmd**
+30.**Linux cmd :**
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7bfb87df-5134-41c2-a6a1-d110fca86976)
 
 
 
-31.**NAT**
+31.**NAT :**
 NAT stands for network address translation. It's a way to map multiple private addresses inside a local network to a public IP address before transferring the information onto the internet.
 
 
 
-32.**Switch**
+32.**Switch :**
 connects devices in a network to each other, enabling them to talk by exchanging data packets.
 
 
 
-33.**Router**
+33.**Router :**
 router is a device that connects two or more packet-switched networks or subnetworks.
 
 
 
-34.**Server**
+34.**Server :**
 server is a computer program or device that provides a service to another computer program and its user, also known as the client. 
 
 
 
-35.**Round Robin**
+35.**Round Robin :**
 each member of the body is given an opportunity to speak once before anyone may speak a second time, commonly by calling on the members around the table in turn
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/1625106a-83af-4ade-b20c-d4ce813573f8)
 
 
 
-36.**data structure algorithm ( DSA)**
+36.**data structure algorithm ( DSA) :**
 A data structure is a method of organizing data in a virtual system. Think of sequences of numbers, or tables of data: these are both well-defined data structures.
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/c7d16eca-8b1a-4bb9-a9e1-85a698c448ad)
 
 
-37.**object oriented programming(OOPS)**
+37.**object oriented programming(OOPS) :**
 OOPs (Object-Oriented Programming System)
 
 Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts: Object. Class.
@@ -256,53 +256,53 @@ Object-Oriented Programming is a methodology or paradigm to design a program usi
 
 
 
-38.**Ubuntu directories**
+38.**Ubuntu directories :**
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/42c6a9d0-8d08-415e-9070-7b35c23735b4)
 
 
 
-39.**SSL (Certificate)**
+39.**SSL (Certificate) :**
 An SSL certificate is a digital certificate that authenticates a website's identity and enables an encrypted connection. SSL stands for Secure Sockets Layer
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/b9c51274-ca97-4e0f-9460-5da842628d29)
 
 
 
-40.**Blockchain**
+40.**Blockchain :**
 Blockchain is a type of shared database that differs from a typical database in the way it stores information; blockchains store data in blocks linked together via cryptography
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/8a96b725-2ed1-49fe-9d80-9631d7a4461a)
 
 
 
 
-42.**Satoshi nakamoto**
+42.**Satoshi nakamoto :**
 Nakamoto created Bitcoin. This fact is based on the famous Bitcoin white paper, “Bitcoin: A Peer-to-Peer Electronic Cash System,” published online in October 2008. Nakamoto was the author of the white paper, laying out the theory and operating structure of the Bitcoin payment system.
 
 
 
-43.**Bitcoin**
+43.**Bitcoin :**
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/2d09d521-da98-455b-82f2-a76019fa5904)
 
 
 
-44.**Bitcoin mining ⛏️**
+44.**Bitcoin mining ⛏️ :**
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/ce01b3d8-3216-4600-a15e-97bac8becce0)
 
 
 
-45.**Ethereum**
+45.**Ethereum :**
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/f0ab128e-9a93-44e9-95c9-69857bb1cb21)
 
 
 
-46.**ICO**
+46.**ICO :**
 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7056cfff-f4e3-4091-8096-f2860aae22d8)
 
 
 
-47.**Server**
+47.**Server :**
 
 server is a computer program or device that provides a service to another computer program and its user, also known as the client. 
 
@@ -311,19 +311,19 @@ server is a computer program or device that provides a service to another comput
 
 
 
-48. **Apache **
+48. **Apache :**
     
  As a Web server, Apache is  responsible for accepting directory (HTTP) requests from Internet users and sending them their desired information in the form of files and Web pages.
 
  
  
-50. **nginx**
+50. **nginx :**
 
 NGINX is open-source web server software used for reverse proxy, load balancing, and caching. It provides HTTPS server capabilities and is mainly designed for maximum performance and stability. It also functions as a proxy server for email communications protocols, such as IMAP, POP3, and SMTP.
 
 
 
-50.**Caddy server**
+50.**Caddy server :**
 
 The Caddy web server is an open-source, HTTP/2-enabled web server written in Go: The server is designed to be simple, efficient, and portable.
 
@@ -332,36 +332,36 @@ The Caddy web server is an open-source, HTTP/2-enabled web server written in Go:
 
 
 
-51.**Container engine**
+51.**Container engine :**
 
 Container engines can run multiple, isolated instances, known as containers, on the same operating system kernel. Containers perform virtualization at the operating system level, and provide a controllable.
 
 
-52.**Docker**
+52.**Docker :**
 
 Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. 
 
 
 
-53.**Linux container (lxc)**
+53.**Linux container (lxc) :**
 
 LXC (LinuX Containers) is a OS-level virtualization technology that allows creation and running of multiple isolated Linux virtual environments (VE) on a single control host. 
 
 
 
-54.**On Prem**
+54.**On Prem :**
 
 On-Premises' (“on-prem” or “on-premise”) means that local software is installed and runs on computers in your company's own IT environment. From your company's offices, you can choose whether to manage and maintain servers, etc
 
 
 
-55.**Cluster**
+55.**Cluster :**
 
 Clusters are typically defined as collections or groups of items with similar or different characteristics. The group or collection of items constitutes a cluster. 
 
 
 
-56.**Desktop computing**
+56.**Desktop computing :**
 
    - CLIENT COMPUTING
 
@@ -413,7 +413,7 @@ Clusters are typically defined as collections or groups of items with similar or
 
     
 
-57.**Torrent**
+57.**Torrent :**
 
 Torrents are used to transfer data between each other without the need for a central server
 
@@ -424,7 +424,7 @@ Torrents are used to transfer data between each other without the need for a cen
 
 
 
-59.**AGILE**
+59.**AGILE :**
 
 agile is a group of methodologies that demonstrate a commitment to tight feedback cycles and continuous improvement. 
 
@@ -433,7 +433,7 @@ agile is a group of methodologies that demonstrate a commitment to tight feedbac
 
 
 
-60.**Design pattern**
+60.**Design pattern :**
 
 
 Systems design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements.
