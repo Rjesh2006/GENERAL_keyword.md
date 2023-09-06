@@ -454,6 +454,12 @@ Systems design is the process of defining elements of a system like modules, arc
 
 
 
+61.**Orchestrations :**
+
+Orchestration is the coordination and management of multiple computer systems, applications and/or services, stringing together multiple tasks in order to execute a larger workflow or process
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/f35c34d3-e4dc-4e65-b120-05bab1e7d95c)
+
+
      
 
 
