@@ -439,7 +439,7 @@ agile is a group of methodologies that demonstrate a commitment to tight feedbac
 Systems design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements.
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7933f8fa-25f4-428a-8913-ac1e86b472a2)
 
-   -*Whatsaap system design*
+   - *Whatsaap system design*
    ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7f5a831e-cda3-428a-b5fb-86d865159d38)
 
 
