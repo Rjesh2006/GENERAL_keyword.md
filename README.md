@@ -433,11 +433,24 @@ agile is a group of methodologies that demonstrate a commitment to tight feedbac
 
 
 
-60.****
+60.**Design pattern**
+
+
+Systems design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements.
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7933f8fa-25f4-428a-8913-ac1e86b472a2)
+
+   -*Whatsaap system design*
+   ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/7f5a831e-cda3-428a-b5fb-86d865159d38)
+
+
+   - *Tik tok system design*
+      
+     ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/6780371f-a740-459c-85d1-366a2234ccdb)
 
 
 
-
+   - *YouTube system design*
+      ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/cec314fa-06df-4323-a778-592260d09b29)
 
 
 
