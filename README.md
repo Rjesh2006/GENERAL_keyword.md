@@ -1,33 +1,35 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Rajesh</h1>
+ 
+
+ 
+<h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">A passionate student of - CS</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjesh2006&label=Profile%20views&color=0e75b6&style=flat" alt="rjesh2006" /> </p>
 
-- ðŸ”­ Iâ€™m currently working on Computing [@Keywords.](https://github.com/Rjesh2006/Rjesh2006/blob/main/README.md)
+- 🔭 I’m currently working on Computing [@Keywords.](https://github.com/Rjesh2006/Rjesh2006/blob/main/README.md)
 
-- ðŸŒ± Iâ€™m currently learning **AWS - Cloud computing**
+- 🌱 I’m currently learning **AWS - Cloud computing**
 
-- ðŸ’¬ Ask me about **Cloud computing of Aws**
+- 💬 Ask me about **Cloud computing of Aws**
 
-- ðŸ“« How to reach me **rk2998858@gmail.com**
+- 📫 How to reach me **rk2998858@gmail.com**
 
-- âš¡ Fun fact **I am here to learn and share with you that I learnt**
+- ⚡ Fun fact **I am here to learn and share with you that I learnt**
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjesh2006&show_icons=true&locale=en&layout=compact" alt="rjesh2006" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rajesh971847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajesh971847" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjesh2006&show_icons=true&locale=en" alt="rjesh2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjesh2006&" alt="rjesh2006" /></p>
 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
  👋 .....Hi I’m @Rjesh2006 
  i have written here some technical 
  keywords that's help you to 
