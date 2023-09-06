@@ -461,7 +461,7 @@ Orchestration is the coordination and management of multiple computer systems, a
 
 
 
-<img alt="Coder GIF" height=250 width=350 src="￼" />
+<img alt="Coder GIF" height=250 width=350 src="https://tenor.com/en-IN/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682"/>
 <br>
 
 
