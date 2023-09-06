@@ -16,10 +16,6 @@
 
 - ⚡ Fun fact **I am here to learn and share with you that I learnt**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rajesh971847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajesh971847" height="30" width="40" /></a>
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjesh2006&show_icons=true&locale=en" alt="rjesh2006" /></p>
 
