@@ -489,18 +489,40 @@ Orchestration is the coordination and management of multiple computer systems, a
 
 
 
+62.**POINTERS :**
+
+Pointers are variables that store the addresses of other variables. In other words, pointer points to a variable that is stored at a given address. 
 
 
 
-  
-**Update To be Continued...........**
+63.**Indirecting addressing value :**
+
+
+Indirect addressing is a scheme in which the address specifies which memory word or register contains not the operand but the address of the operand.
 
 
 
+  64.**Direct adressing :***
+
+  Direct Addressing Mode: In direct addressing mode, the address field in the instruction contains the effective address of the operand and no intermediate memory access is required. Nowadays it is rarely used.
 
 
 
+65.**Stack :**
 
+
+stack is a logical concept that consists of a set of similar elements. The term is often used in programming and memory organization in computers. Programming stacks are based on the principle of last in first out (LIFO),
+
+
+
+66.**Recursion :**
+
+
+
+In programming terms, recursion is a function calling itself until a "base condition" is true to produce the correct output
+
+
+***Update To be Continued...........***
 
 
 
