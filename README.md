@@ -445,7 +445,7 @@ Clusters are typically defined as collections or groups of items with similar or
 
 Torrents are used to transfer data between each other without the need for a central server
 
-58.** peer to peer **
+58.**peer to peer :**
 
 (P2P) network is group of computers, each of which acts as a node for sharing files within the group. 
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/881f398d-6767-4944-bf2d-ce2bfdffdde6)
