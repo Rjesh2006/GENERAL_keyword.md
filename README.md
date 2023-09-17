@@ -497,7 +497,6 @@ Pointers are variables that store the addresses of other variables. In other wor
 
 63.**Indirecting addressing value :**
 
-
 Indirect addressing is a scheme in which the address specifies which memory word or register contains not the operand but the address of the operand.
 
 
@@ -510,17 +509,41 @@ Indirect addressing is a scheme in which the address specifies which memory word
 
 65.**Stack :**
 
-
 stack is a logical concept that consists of a set of similar elements. The term is often used in programming and memory organization in computers. Programming stacks are based on the principle of last in first out (LIFO),
 
 
 
 66.**Recursion :**
 
-
-
 In programming terms, recursion is a function calling itself until a "base condition" is true to produce the correct output
 
+
+
+67.**Array**
+
+An array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key.
+
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/78ea6698-71ba-4373-9b57-9e3b6bef8d8d)
+
+
+
+68.**dangling pointer**
+A dangling pointer is a pointer that occurs at the time when the object is de-allocated from memory without modifying the value of the pointer.
+
+
+
+69.**Segment address**
+
+Initialized data segment or data segment is part of the computer's virtual memory space of a C program that contains values of all external, global, static, and constant variables whose values are initialized at the time of variable declaration in the program.
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/63f7ab34-c9ac-4f25-9204-ce7074dcc9bc)
+
+
+
+670.**PYsdr**
+
+ A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs.
+
+ 
 
 ***Update To be Continued...........***
 
