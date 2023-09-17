@@ -1,6 +1,4 @@
  
-
- 
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">A passionate student of - CS</h3>
 
@@ -542,7 +540,7 @@ Initialized data segment or data segment is part of the computer's virtual memor
 
 67.**PYsdr :**
 
- <u> A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs<\u>
+ <u>A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs
 
  
 
