@@ -95,7 +95,7 @@ Nearly all open source software is free software, but there are exceptions.
 
 
 11.**Enegy efficiency :**
-*The term efficiency can be defined as the ability to achieve an end goal with little to no waste, effort, or energy*
+*The term efficiency can be defined as the ability to achieve an end goal with little to no waste, effort, or energy* 
 
 **The most energy efficient programming languages:-**
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/623a6ba5-d4ad-4fde-b7af-14237db569c7)
