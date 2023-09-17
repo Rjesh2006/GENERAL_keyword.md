@@ -503,7 +503,7 @@ Indirect addressing is a scheme in which the address specifies which memory word
 
   64.**Direct adressing :***
 
-  Direct Addressing Mode: In direct addressing mode, the address field in the instruction contains the effective address of the operand and no intermediate memory access is required. Nowadays it is rarely used.
+ Direct Addressing Mode: In direct addressing mode, the address field in the instruction contains the effective address of the operand and no intermediate memory access is required. Nowadays it is rarely used.
 
 
 
@@ -519,7 +519,7 @@ In programming terms, recursion is a function calling itself until a "base condi
 
 
 
-67.**Array**
+67.**Array :**
 
 An array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key.
 
@@ -527,19 +527,20 @@ An array is a data structure consisting of a collection of elements (values or v
 
 
 
-68.**dangling pointer**
+68.**dangling pointer :**
+
 A dangling pointer is a pointer that occurs at the time when the object is de-allocated from memory without modifying the value of the pointer.
 
 
 
-69.**Segment address**
+69.**Segment address :**
 
 Initialized data segment or data segment is part of the computer's virtual memory space of a C program that contains values of all external, global, static, and constant variables whose values are initialized at the time of variable declaration in the program.
-![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/63f7ab34-c9ac-4f25-9204-ce7074dcc9bc)
+-![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/63f7ab34-c9ac-4f25-9204-ce7074dcc9bc)
 
 
 
-670.**PYsdr**
+670.**PYsdr :**
 
  A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs.
 
