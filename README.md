@@ -34,7 +34,7 @@
 
  # These are some Keywords 🗝️ :-- # 
  1.**Computation :**
- <ins>the use of computers, especially as a  subject of research or study<\ins>
+ <ins>the use of computers, especially as a  subject of research or study
  
 
 
