@@ -34,7 +34,7 @@
 
  # These are some Keywords 🗝️ :-- # 
  1.**Computation :**
- the use of computers, especially as a  subject of research or study.
+ <u>the use of computers, especially as a  subject of research or study.<\u>
  
 
 
@@ -540,7 +540,7 @@ Initialized data segment or data segment is part of the computer's virtual memor
 
 67.**PYsdr :**
 
- <U>A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs<\U>
+ A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs
 
  
 
