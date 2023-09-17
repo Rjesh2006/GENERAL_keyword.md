@@ -536,7 +536,7 @@ A dangling pointer is a pointer that occurs at the time when the object is de-al
 69.**Segment address :**
 
 Initialized data segment or data segment is part of the computer's virtual memory space of a C program that contains values of all external, global, static, and constant variables whose values are initialized at the time of variable declaration in the program.
-- ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/63f7ab34-c9ac-4f25-9204-ce7074dcc9bc) 
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/63f7ab34-c9ac-4f25-9204-ce7074dcc9bc) 
 
 
 
