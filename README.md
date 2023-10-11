@@ -14,16 +14,7 @@
 
 - ⚡ Fun fact **I am here to learn and share with you that I learnt**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjesh2006&show_icons=true&locale=en" alt="rjesh2006" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjesh2006&" alt="rjesh2006" /></p>
-
-
-
-
-
-
  👋 .....Hi I’m @Rjesh2006 
  i have written here some technical 
  keywords that's help you to 
