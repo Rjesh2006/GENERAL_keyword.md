@@ -22,7 +22,6 @@
 
  <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <br>
-
  # <ins>These are some Keywords 🗝️ :-- # 
  1.**Computation :**
  the use of computers, especially as a  subject of research or study
