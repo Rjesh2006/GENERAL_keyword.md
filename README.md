@@ -19,11 +19,8 @@
  i have written here some technical 
  keywords that's help you to 
  catch thinks easily.....
- 
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
 
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+ <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <br>
 
  # <ins>These are some Keywords 🗝️ :-- # 
