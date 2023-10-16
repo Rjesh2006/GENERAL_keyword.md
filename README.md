@@ -565,7 +565,7 @@ Initialized data segment or data segment is part of the computer's virtual memor
 69.**Container Orchestration**
 
 Container orchestration automatically provisions, deploys, scales, and manages containerized applications without worrying about the underlying infrastructure.
-
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/37ce9ed7-75b1-4c0c-97c7-6fa939b00d2c)
 
 70.**why kubernates is famous ?**
 
