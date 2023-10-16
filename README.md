@@ -323,6 +323,8 @@ Nakamoto created Bitcoin. This fact is based on the famous Bitcoin white paper, 
 
 
 44.**Bitcoin mining ⛏️ :**
+
+
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/ce01b3d8-3216-4600-a15e-97bac8becce0)
 
 
@@ -565,7 +567,6 @@ Initialized data segment or data segment is part of the computer's virtual memor
 Container orchestration automatically provisions, deploys, scales, and manages containerized applications without worrying about the underlying infrastructure.
 
 
-
 70.**why kubernates is famous ?**
 
 
@@ -583,11 +584,13 @@ reason for Kubernetes' popularity is its scalability. Kubernetes allows organiza
 
 Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications.
 
- 73.**Cloud prividers**
- ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/fe14a502-c878-42aa-aab0-27ca8832f855)
+ - *Cloud prividers*
+    ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/fe14a502-c878-42aa-aab0-27ca8832f855)
 
 
- 74.
+ 73.**kubernates components or services**
+
+https://gauravguptacloud.medium.com/components-of-kubernetes-architecture-6feea4d5c712#:~:text=Nodes%20(Minions)%3A,health%20checkup%2C%20etc.
 
 ***Update To be Continued...........***
 
