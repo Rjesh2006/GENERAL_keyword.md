@@ -554,6 +554,40 @@ Initialized data segment or data segment is part of the computer's virtual memor
  A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs
 
  
+68.**kubernates**
+
+- Kubernetes is the most popular container orchestration platform, and has become an essential tool for DevOps teams.
+![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/aa9985c3-639e-4c4f-ab41-f56b92517ebe)
+
+
+69.**Container Orchestration**
+
+Container orchestration automatically provisions, deploys, scales, and manages containerized applications without worrying about the underlying infrastructure.
+
+
+
+70.**why kubernates is famous ?**
+
+
+reason for Kubernetes' popularity is its scalability. Kubernetes allows organizations to scale their containerized applications up or down based on demand, making it easy to handle traffic spikes and unexpected increases in user activity. Kubernetes also provides a high level of reliability and availability.1
+
+
+71.**what is cluster setup in kubernates ?**
+
+ A Kubernetes cluster is a set of nodes that run containerized applications. Containerizing applications packages an app with its dependences and some necessary services.
+ 
+
+
+72.**paas**
+
+
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications.
+
+ 73.**Cloud prividers**
+ ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/fe14a502-c878-42aa-aab0-27ca8832f855)
+
+
+ 74.
 
 ***Update To be Continued...........***
 
