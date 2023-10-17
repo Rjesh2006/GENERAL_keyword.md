@@ -588,9 +588,49 @@ Platform as a service (PaaS) is a complete development and deployment environmen
     ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/fe14a502-c878-42aa-aab0-27ca8832f855)
 
 
- 73.**kubernates components or services you can know all about this by clicking the give link below:-**
+ 73.**master node**
 
-https://gauravguptacloud.medium.com/components-of-kubernetes-architecture-6feea4d5c712#:~:text=Nodes%20(Minions)%3A,health%20checkup%2C%20etc.
+ The master node is responsible for cluster management and for providing the API that is used to configure and manage resources within the Kubernetes cluster.
+
+74.**worker nodes**
+
+Worker nodes within the Kubernetes cluster are used to run containerized applications and handle networking to ensure that traffic between applications across the cluster and from outside of the cluster can be properly facilitated.
+75.**scheduler**
+
+The Kubernetes scheduler is a control plane process which assigns Pods to Nodes. 
+
+
+76.**controller**
+
+ a controller is a control loop that watches the shared state of the cluster through the apiserver and makes changes attempting to move the current state towards the desired state.
+
+
+77.**Api**
+
+ The Kubernetes API server validates and configures data for the api objects which include pods, services, replicationcontrollers, and others. The API Server services REST operations and provides the frontend to the cluster's shared state through which all other components interact.
+
+
+78.**ETC'd( database)**
+
+etcd is an open source distributed key-value store used to hold and manage the critical information that distributed systems need to keep running. Most notably, it manages the configuration data, state data, and metadata for Kubernetes,
+
+
+79.**kubelet**
+
+The kubelet is responsible for ensuring that containers specified in pod configuration are running on a specific node, and manages their lifecycle.. It executes the actions commanded by your control plane.
+
+80.**kubeproxy**
+
+kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept. kube-proxy maintains network rules on nodes. These network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
+
+81.**yaml file**
+
+YAML is a human-friendly language. In the context of Kubernetes, YAML files are mainly used for the configuration of K8 pods, services, and deployments.
+
+82.**kubedeam**
+
+Kubeadm is a tool used to build Kubernetes (K8s) clusters. Kubeadm performs the actions necessary to get a minimum viable cluster up and running quickly. By design, it cares only about bootstrapping, not about provisioning machines (underlying worker and master nodes).
+
 
 
 
