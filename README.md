@@ -556,13 +556,13 @@ Initialized data segment or data segment is part of the computer's virtual memor
  A guide for using Python as a software-defined radio (SDR) framework, for extremely rapid development of SDR apps/research with beautiful GUIs
 
  
-68.**kubernates**
+68.**kubernates :**
 
 - Kubernetes is the most popular container orchestration platform, and has become an essential tool for DevOps teams.
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/aa9985c3-639e-4c4f-ab41-f56b92517ebe)
 
 
-69.**Container Orchestration**
+69.**Container Orchestration:**
 
 Container orchestration automatically provisions, deploys, scales, and manages containerized applications without worrying about the underlying infrastructure.
 ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/37ce9ed7-75b1-4c0c-97c7-6fa939b00d2c)
@@ -579,7 +579,7 @@ reason for Kubernetes' popularity is its scalability. Kubernetes allows organiza
  
 
 
-72.**paas**
+72.**paas:**
 
 
 Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications.
@@ -588,46 +588,48 @@ Platform as a service (PaaS) is a complete development and deployment environmen
     ![image](https://github.com/Rjesh2006/Rjesh2006/assets/143868643/fe14a502-c878-42aa-aab0-27ca8832f855)
 
 
- 73.**master node**
+ 73.**master node:**
 
  The master node is responsible for cluster management and for providing the API that is used to configure and manage resources within the Kubernetes cluster.
 
-74.**worker nodes**
+74.**worker nodes:**
 
-Worker nodes within the Kubernetes cluster are used to run containerized applications and handle networking to ensure that traffic between applications across the cluster and from outside of the cluster can be properly facilitated.
-75.**scheduler**
+Worker nodes within the Kubernetes cluster are used to run containerized applications and handle networking to ensure that traffic between applications across the cluster and from outside of the cluster can be properly facilitated.#
+
+
+75.**scheduler:**
 
 The Kubernetes scheduler is a control plane process which assigns Pods to Nodes. 
 
 
-76.**controller**
+76.**controller:**
 
  a controller is a control loop that watches the shared state of the cluster through the apiserver and makes changes attempting to move the current state towards the desired state.
 
 
-77.**Api**
+77.**Api:**
 
  The Kubernetes API server validates and configures data for the api objects which include pods, services, replicationcontrollers, and others. The API Server services REST operations and provides the frontend to the cluster's shared state through which all other components interact.
 
 
-78.**ETC'd( database)**
+78.**ETC'd( database):**
 
 etcd is an open source distributed key-value store used to hold and manage the critical information that distributed systems need to keep running. Most notably, it manages the configuration data, state data, and metadata for Kubernetes,
 
 
-79.**kubelet**
+79.**kubelet:**
 
 The kubelet is responsible for ensuring that containers specified in pod configuration are running on a specific node, and manages their lifecycle.. It executes the actions commanded by your control plane.
 
-80.**kubeproxy**
+80.**kubeproxy:**
 
 kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept. kube-proxy maintains network rules on nodes. These network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
 
-81.**yaml file**
+81.**yaml file:**
 
 YAML is a human-friendly language. In the context of Kubernetes, YAML files are mainly used for the configuration of K8 pods, services, and deployments.
 
-82.**kubedeam**
+82.**kubedeam:**
 
 Kubeadm is a tool used to build Kubernetes (K8s) clusters. Kubeadm performs the actions necessary to get a minimum viable cluster up and running quickly. By design, it cares only about bootstrapping, not about provisioning machines (underlying worker and master nodes).
 
