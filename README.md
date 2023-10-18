@@ -633,7 +633,7 @@ YAML is a human-friendly language. In the context of Kubernetes, YAML files are 
 
 Kubeadm is a tool used to build Kubernetes (K8s) clusters. Kubeadm performs the actions necessary to get a minimum viable cluster up and running quickly. By design, it cares only about bootstrapping, not about provisioning machines (underlying worker and master nodes).
 
-
+  
 
 
 ***Update To be Continued...........***
