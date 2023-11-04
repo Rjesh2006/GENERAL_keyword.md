@@ -594,7 +594,7 @@ An array is a data structure consisting of a collection of elements (values or v
      traffic spikes and unexpected increases in user activity. Kubernetes also provides a high level of reliability and availability.1
   
   
-    -#What is cluster setup in kubernates ?#
+ - # **whats cluster setup in conatainer orchestration** #
   
      A Kubernetes cluster is a set of nodes that run containerized applications. Containerizing applications packages an app with its dependences and some necessary services.
    
