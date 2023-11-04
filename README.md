@@ -512,7 +512,7 @@ Indirect addressing is a scheme in which the address specifies which memory word
 
 
 
-  64.**Direct adressing :***
+  64.**Direct adressing :**
 
  Direct Addressing Mode: In direct addressing mode, the address field in the instruction contains the effective address of the operand and no intermediate memory access is required. Nowadays it is rarely used.
 
