@@ -595,7 +595,7 @@ with beautiful GUIs
 reason for Kubernetes' popularity is its scalability. Kubernetes allows organizations to scale their containerized applications up or down based on demand, making it easy to handle traffic spikes and unexpected increases in user activity. Kubernetes also provides a high level of reliability and availability.1
   
   
- ### **whats cluster setup in conatainer orchestration** 
+ #### **whats cluster setup in conatainer orchestration** 
   
 A Kubernetes cluster is a set of  nodes that run containerized    applications. Containerizing applications packages an app
 with its dependences and some necessary services.
