@@ -42,7 +42,11 @@ const config: HardhatUserConfig = {
 };
 
 export default config;
+```
 
-
+```
+ETHERSCAN_API_KEY=<U5BJX2J29TUET2KZQDD4JTWZ91SCQ5G456>
+ROPSTEN_URL=https://eth-sepolia.g.alchemy./v2.io/<wpgYdj00Mll00w9xypcqM69iT8OTtVKQ> 
+TEST_ETH_ACCOUNT_PRIVATE_KEY=<8f57996d8e8a6cefc49a76525c4cdf38fabe6ac5ff7c3aa6dc977cb69fecd0a5>
 
 ```
